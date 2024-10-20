@@ -1,0 +1,16 @@
+{
+  "welcome": "Bienvenue sur LogiFlow",
+  "description": "Système de gestion de transport efficace",
+  "login": "Connexion",
+  "signup": "S'inscrire",
+  "email": "Email",
+  "password": "Mot de passe",
+  "confirmPassword": "Confirmer le mot de passe",
+  "fullName": "Nom complet",
+  "role": "Rôle",
+  "submit": "Soumettre",
+  "ongoingDeliveries": "Livraisons en cours",
+  "deliveriesThisWeek": "Livraisons cette semaine",
+  "manageDeliveries": "Gérer les livraisons",
+  "viewEmployees": "Voir les employés"
+}
